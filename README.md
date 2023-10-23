@@ -1,4 +1,4 @@
-# Large Language Models – news of the last 6 months
+# Large Language Models – news of the last 6 months (Q2/Q3 2023)
 
 [Show Slides](https://signalwerk.github.io/talk.ai-llm-news-2023-Q3/)
 
